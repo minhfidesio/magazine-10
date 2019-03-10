@@ -35,6 +35,14 @@ p {
 input[type=text], input[type=tel], textarea {
     -webkit-appearance: none;
 }
+body{
+    background-color: black;
+    color: white;
+}
+body a:link{
+    color: white;
+    font-weight: bold;
+}
 .wrapper-tt{
     font-family: 'Open Sans', sans-serif;
     width: 100%;
